@@ -1,0 +1,2 @@
+D:\Auc Courses\Fall2022\Analysis_and_Design_ofAlgorithms_Lab\simple_search_engine\x64\Debug\simple_search_engine.exe
+D:\Portfolio\simple_search_engine\x64\Debug\simple_search_engine.exe
